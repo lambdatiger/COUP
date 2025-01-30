@@ -13,7 +13,7 @@
 - Positioning and scaling improvements for auxilary UI elements
 
 ### Vehicles
-List of sighting systems and affected vehicles is maintained [here](https://github.com/lambdatiger/COUP/wiki)
+List of sighting systems and affected vehicles is maintained [here](https://github.com/lambdatiger/COUP/wiki/Index)
 
 ## License
 COUP is licensed under Arma Public License - Share Alike ([APL-SA](https://www.bohemia.net/community/licenses/arma-public-license-share-alike))
