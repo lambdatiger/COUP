@@ -6,10 +6,14 @@
 
 
 ## Core features
+### Overview
 - Introduction of crew sighting systems authentic to depicted vehicles and time period 
 - Accurate representation of projectile ballistics and ranging on scope grids
 - Active elements for applicable scopes: non-discrete ranging, fire control indicators, rangefinders, etc.
 - Positioning and scaling improvements for auxilary UI elements
 
+### Vehicles
+List of sighting systems and affected vehicles is maintained [here](https://github.com/lambdatiger/COUP/wiki/Index)
+
 ## License
-COUP is licensed under APL-SA
+COUP is licensed under Arma Public License - Share Alike ([APL-SA](https://www.bohemia.net/community/licenses/arma-public-license-share-alike))
