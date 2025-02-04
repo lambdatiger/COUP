@@ -2,3 +2,21 @@ name = "Community Optics Upgrade Project"
 author = "COUP Team"
 prefix = "coup"
 mainprefix = "z"
+
+[version]
+path = "addons/core/script_version.hpp" # Default
+
+[files]
+include = [
+    "mod.cpp",
+    "LICENSE",
+]
+exclude = [
+    "hemtt.exe",
+    ".vscode/*",
+    "dev/*",
+    "*.txt",
+    "*.png",
+    "*.psd",
+    ".Research/*"
+]
